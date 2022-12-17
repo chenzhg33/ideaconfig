@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="IDC" type="PLAIN_TEXT" />
+      <mapping pattern="wfsnnsvr" type="PLAIN_TEXT" />
+      <mapping pattern="no_notice" type="PLAIN_TEXT" />
+      <mapping pattern="svrconsole" type="PLAIN_TEXT" />
+      <mapping pattern="no_warning" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

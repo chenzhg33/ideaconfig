@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="73aa5e35-8033-4c80-9979-7e1c7eaa79ef" name="86" url="http://9.134.65.89">
+        <fileTransfer host="9.134.65.89" port="36000" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f570178-4e6a-4b9a-a2a3-9b685fbe457f" name="cloud_dev" url="http://9.134.4.22">
+        <fileTransfer host="9.134.4.22" port="56000" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="56000" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9371e831-099f-4d42-be1f-1a3d59908120" name="119.28.182.179" url="http://119.28.182.179">
+        <fileTransfer host="119.28.182.179" port="22" privateKey="D:\微云同步助手\121579293\id_rsa.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
